@@ -1,0 +1,1 @@
+console.log("hi"),document.getElementById("content").innerHTML="alalalalal";
